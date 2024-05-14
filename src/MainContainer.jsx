@@ -16,7 +16,7 @@ const MainContainer = () => {
   
   return (
     <>
-        <Perf />
+        {/* <Perf /> */}
         <CameraPositionLogging event="mousedown" />
         <AnimatedStars />
         {/* <directionalLight castShadow  ref={directionalLightRef} position={[0, 0, 10]} intensity={1}/>
